@@ -8,6 +8,11 @@ import { Provider } from "react-redux";
 import rootReducer from "./login/Reducers/rootReducer";
 
 const store = createStore(rootReducer);
+const cors = require("cors");
+app.use(cors({
+  origin: "https://workmu.netlify.app/", // Netlify domain
+  methods: ["GET","POST","PUT","DELETE"]
+}));
 
 ReactDOM.render(
   <BrowserRouter>
