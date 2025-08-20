@@ -23,13 +23,13 @@ It provides a platform where **students and job seekers** can browse, apply, and
 
 ![Job Listings](./screenshots/2.png)
 
-![Application Page](./screenshot/3.png)
+![Application Page](./screenshots/3.png)
 
 ![Homepage](./screenshots/4.png)
 
 ![Job Listings](./screenshots/5.png)
 
-![Application Page](./screenshot/6.png)
+![Application Page](./screenshots/6.png)
 
 ![Homepage](./screenshots/7.png)
 
@@ -40,7 +40,7 @@ It provides a platform where **students and job seekers** can browse, apply, and
 
 ![Job Listings](./screenshots/10.png)
 
-![Application Page](./screenshot/11.png)
+![Application Page](./screenshots/11.png)
 
 ![Homepage](./screenshots/12.png)
 
