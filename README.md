@@ -18,14 +18,32 @@ It provides a platform where **students and job seekers** can browse, apply, and
 ---
 ## 📸 Screenshots
 
-### Homepage
-![Homepage](./screenshots/homepage.png)
+### Recruiter Pages
+![Homepage](./screenshots/1.png)
 
-### Job Listings
-![Job Listings](./screenshots/job-listing.png)
+![Job Listings](./screenshots/2.png)
 
-### Application Page
-![Application Page](./screenshot/application.png)
+![Application Page](./screenshot/3.png)
+
+![Homepage](./screenshots/4.png)
+
+![Job Listings](./screenshots/5.png)
+
+![Application Page](./screenshot/6.png)
+
+![Homepage](./screenshots/7.png)
+
+![Job Listings](./screenshots/8.png)
+
+### User Pages
+![Homepage](./screenshots/9.png)
+
+![Job Listings](./screenshots/10.png)
+
+![Application Page](./screenshot/11.png)
+
+![Homepage](./screenshots/12.png)
+
 
 ---
 ## 🛠️ Tech Stack
