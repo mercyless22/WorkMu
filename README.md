@@ -115,8 +115,3 @@ If you have questions, feedback, or suggestions:
 ---
 
 ⭐ If you find this project useful, don’t forget to **star the repo** and share it!
-
-```
-
-Do you also want me to **add GitHub badges (for React, Node.js, MongoDB, etc.)** at the top for extra professional polish? That will make the README stand out more in open-source circles like rtCamp reviewers.
-```
