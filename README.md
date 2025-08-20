@@ -16,7 +16,18 @@ It provides a platform where **students and job seekers** can browse, apply, and
 - 📑 Manage job applications  
 
 ---
+## 📸 Screenshots
 
+### Homepage
+![Homepage](./screenshots/homepage.png)
+
+### Job Listings
+![Job Listings](./screenshots/job-listing.png)
+
+### Application Page
+![Application Page](./screenshot/application.png)
+
+---
 ## 🛠️ Tech Stack
 
 **Frontend**
