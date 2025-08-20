@@ -46,9 +46,11 @@ Make sure you have the following installed:
 ### Installation Steps
 
 1. Clone the repository:
-   ```bash
+  
+ ```bash
    git clone https://github.com/mercyless22/WorkMu.git
-````
+ ```
+
 
 2. Install frontend dependencies:
 
