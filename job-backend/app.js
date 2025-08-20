@@ -10,8 +10,7 @@ const userRoutes = require("./routes/user");
 
 const app = express();
 
-// const userName = "praveenterax";
-// const password = "NblCRcF6hjo1BC3s";
+
 
 const MONGO_URI = `mongodb+srv://nevil:rxDh0Rb81K7DJjI1@nevil.wgndcgd.mongodb.net/`;
 
