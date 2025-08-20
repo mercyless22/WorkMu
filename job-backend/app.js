@@ -12,7 +12,7 @@ const app = express();
 
 
 
-const MONGO_URI = `mongodb+srv://nevil:rxDh0Rb81K7DJjI1@nevil.wgndcgd.mongodb.net/`;
+const MONGO_URI = `mongodb+srv://badridevelopersandsales:lBI5x87u4HtP4fPT@cluster0.jcmagwn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
 
 app.use(bodyParser.json());
 
